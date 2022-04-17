@@ -1,6 +1,6 @@
 # SC1015 Data Science Mini-Project
 
-Our team's objective is to utilise the data sets of Video games from year x - year y to predict the Global Sales of a certain game in that period. Our Video Games data sets consists of Game related information such as Rank, Name, Platform, Year, Genre,Publisher, NA Sales, EU Sales, JP Sales, Other Sales and Global Sales.  
+Our team's objective is to utilise the data sets of Video games from year 1980 - year 2017 to predict the Global Sales of a certain game in that period. Our Video Games data sets consists of Game related information such as Rank, Name, Platform, Year, Genre,Publisher, NA Sales, EU Sales, JP Sales, Other Sales and Global Sales.  
 
 In our models, we will be focusing specifically on predicting Global Sales. All together, we will be focsuing on the three commonly used Machine Learning Algorithms in Python which are Linear Regression, Random Forest and Gradient Boosting Regression.
 
