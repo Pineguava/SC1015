@@ -12,16 +12,9 @@ In our models, we will be focusing specifically on predicting Global Sales. All 
 
   Remarks: In this section, we will be focusing on the data visualization and exploratory analysis of our Video Games dataset. We can see some interesting trends from            our datasets regarding their Genre, Publisher, Platform and Year.  
   
-### Jupyter Notebook #3: Machine Learning - Regression (Linear)
+### Jupyter Notebook #3: Machine Learning - Regression (Linear, GradientBoosting, Random Forest)
 
-  Remarks: In this section, we will be focusing on utilising the Linear Regression model for our Video Games dataset. We split our data according to their train and              test sets and constructed a Linear model based on our train datasets. We analyzed the model and calculated their explained variance(R squared) for both                train and test sets.   
+  Remarks: In this section, we will be focusing on utilising Linear Regression, GradientBoosting Regression and Random Forest model for our Video Games dataset. We split   our data according to their train and test sets and constructed a Linear model based on our train datasets. We analyzed the model and calculated their explained variance(R squared) for both train and test sets. We compare their goodness of fit and choose the best model for our prediction. We will use the test data sets on our model to predict Global Sales of our Video Game.  
 
-### Jupyter Notebook #4: Machine Learning - Regression (GradientBoosting)
-
-  Remarks: In this section, we will be focusing on utilising the Gradient Boosting Regression model for our Video Games dataset. We split our data according to           their train and test sets and constructed a Gradient Boosting Regression model based on our train datasets. We analyzed the model and calculated their explained                variance(R squared) for both train and test sets.
-
-### Jupyter Notebook #5: Machine Learning - Regression (Random Forest)
-
-  Remarks: In this section, we will be focusing on utilising the Random Forest model for our Video Games dataset. We split our data according to their                            train and test sets and constructed a Random Forest model based on our train datasets. We analyzed the model and calculated their explained                               variance(R squared) for both train and test sets.
 
 
