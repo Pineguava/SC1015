@@ -6,15 +6,15 @@ In our models, we will be focusing specifically on predicting Global Sales. All 
 
 ### Jupyter Notebook #1: Data Extraction & Data Cleaning
 
-  Remarks: In this section, we will be focusing on the extraction and data cleaning of our Video Games dataset. In our data cleaning, we cleaned out those data that has            na values. Next, we extract the outliers of our data based on Global Sales and dropped them as well.
+  Remarks: In this section, we will be focusing on the extraction and data cleaning of our Video Games dataset. In our data cleaning, we cleaned out those data that              has na values. Next, we extract the outliers of our data based on Global Sales and dropped them as well.
   
-### Jupyter Notebook #2: Exploratory Analysis
+### Jupyter Notebook #2: Data Visualization & Exploratory Analysis
 
-  Remarks: In this section, we will be focusing on the exploratory analysis of our Video Games dataset. We can see certain interesting trends from our datasets regarding            their Genre, Publisher, Platform and Year. 
+  Remarks: In this section, we will be focusing on the data visualization and exploratory analysis of our Video Games dataset. We can see some interesting trends from            our datasets regarding their Genre, Publisher, Platform and Year.  
   
 ### Jupyter Notebook #3: Machine Learning - Regression (Linear)
 
-  Remarks: In this section, we will be focusing on utilising the Linear Regression model for our Video Games dataset. We split our data according to their train and              test sets and constructed a Linear model based on our train datasets. We analyzed the model and calculated their explained variance(R squared) for both train            and test sets.   
+  Remarks: In this section, we will be focusing on utilising the Linear Regression model for our Video Games dataset. We split our data according to their train and              test sets and constructed a Linear model based on our train datasets. We analyzed the model and calculated their explained variance(R squared) for both                train and test sets.   
 
 ### Jupyter Notebook #4: Machine Learning - Regression (GradientBoosting)
 
