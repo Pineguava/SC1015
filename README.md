@@ -18,3 +18,5 @@ In our models, we will be focusing specifically on predicting Global Sales. All 
 
 
 
+Make sure the README ends with each individual contribution in the project by members.
+Make sure the README ends with each online/offline reference you consulted or utilized.
