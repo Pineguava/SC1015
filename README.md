@@ -24,10 +24,11 @@ Remarks: Our slides for our presentation.
 
 ###### Individual Contribution:
 
+Derrick Ng - Data Extraction, data cleaning, data visualization and EDA
+
 Dexter Voon - train and test split, Machine learning models and prediction 
 
 
-Derrick Ng - Data Extraction, data cleaning, data visualization and EDA
 
 
 
