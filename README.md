@@ -20,6 +20,8 @@ We will be focusing our models on projecting global sales in particular. As a re
 ###### Individual Contribution:
 
 Dexter - train and test split, Machine learning models and prediction 
+
+
 Derrick - Data Extraction, data cleaning, data visualization and EDA
 
 
