@@ -29,4 +29,7 @@ Derrick - Data Extraction, data cleaning, data visualization and EDA
 https://www.displayr.com/what-is-a-random-forest/#:~:text=Disadvantages%20of%20random%20forests&text=A%20forest%20is%20less%20interpretable,from%20several%20hundred%20individual%20trees.
 
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+
 https://blog.paperspace.com/gradient-boosting-for-classification/
+
+https://towardsdatascience.com/considerations-when-choosing-a-machine-learning-model-aa31f52c27f3
