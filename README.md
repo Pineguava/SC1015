@@ -12,6 +12,9 @@ We will be focusing our models on projecting global sales in particular. As a re
   Remarks: In this section, we will be focusing on utilising Linear Regression, GradientBoosting Regression and Random Forest model for our Video Games dataset. We split   our data according to their train and test sets and constructed 3 different models based on our train datasets. We analyzed the model and calculated their explained variance(R squared) for both train and test sets. We compare their goodness of fit and choose the best model for our prediction. We will use the better model to predict Global Sales of our Video Game.  
  
 
+###### VGsalesSlides.pptx
+Remarks: Our slides for our presentation.
+
 
 
 
@@ -35,3 +38,5 @@ https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoost
 https://blog.paperspace.com/gradient-boosting-for-classification/
 
 https://towardsdatascience.com/considerations-when-choosing-a-machine-learning-model-aa31f52c27f3
+
+https://www.kaggle.com/datasets/arslanali4343/sales-of-video-games
